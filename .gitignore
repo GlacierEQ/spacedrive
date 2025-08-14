@@ -357,3 +357,12 @@ vite.config.ts.*
 
 /test-data
 /config.json
+
+# Coders in Flow
+.codersinflow
+.vscode
+.venv
+.codex
+*.vsix
+.claude
+CLAUDE.md
