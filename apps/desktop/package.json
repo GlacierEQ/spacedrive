@@ -13,7 +13,7 @@
 	},
 	"dependencies": {
 		"@crabnebula/tauri-plugin-drag": "^2.0.0",
-		"@remix-run/router": "=1.13.1",
+		"@remix-run/router": "=1.23.2",
 		"@sd/client": "workspace:*",
 		"@sd/interface": "workspace:*",
 		"@sd/ui": "workspace:*",
@@ -42,7 +42,7 @@
 		"@types/react-dom": "^18.2.22",
 		"sass": "^1.72.0",
 		"typescript": "^5.6.2",
-		"vite": "^5.4.9",
+		"vite": "^5.4.21",
 		"vite-tsconfig-paths": "^5.0.1"
 	}
 }
