@@ -58,10 +58,10 @@
 		"prettier": "^3.3.3",
 		"prettier-plugin-tailwindcss": "^0.6.6",
 		"prisma": "^5.18.0",
-		"turbo": "^1.12.5",
+		"turbo": "^2.9.14",
 		"turbo-ignore": "^1.12.5",
 		"typescript": "^5.6.2",
-		"vite": "^5.4.9"
+		"vite": "^6.4.3"
 	},
 	"engines": {
 		"pnpm": ">=9.0.0",
